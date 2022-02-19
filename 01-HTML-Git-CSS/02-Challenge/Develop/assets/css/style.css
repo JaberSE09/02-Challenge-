@@ -1,3 +1,8 @@
+/* 
+
+CSS stylesheet style.css
+
+*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +14,7 @@ body {
 }
 
 .header {
+    /*Heading text attributes */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -16,6 +22,7 @@ body {
 }
 
 .header h1 {
+    /* heading main text display and font size*/
     display: inline-block;
     font-size: 48px;
 }
@@ -25,6 +32,7 @@ body {
 }
 
 .header div {
+    /*header sub text display */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -49,7 +57,9 @@ a {
 p {
     font-size: 16px;
 }
-
+/* 
+displays the digital marketing meeting image and formats
+*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,16 +68,17 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* images for the content style */
+.float-left, .float-right{
+    margin-left: 25px;
 
+}
 .float-left {
     float: left;
-    margin-right: 25px;
-
 }
 
 .float-right {
     float: right;
-    margin-left: 25px;
 }
 
 .content {
@@ -75,7 +86,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* side bar style*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,7 +113,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*main content style*/
 #search-engine-optimization,.online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -122,7 +133,7 @@ p {
     font-size: 36px;
 }
 
-
+/*footer style*/
 .footer {
     padding: 30px;
     clear: both;
