@@ -29,7 +29,6 @@ Under the image is 3 rows and 2 columns through css.
 
 ## Credits
 
-Maria Wong 
 Sajid Jaber
 
 
