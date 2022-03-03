@@ -16,17 +16,40 @@ If your README is long, add a table of contents to make it easy for users to fin
 run the index.html file in a web browser
 
 ## Usage
-
+https://jaberse09.github.io/02-Challenge-/ is the live website
 From the home page links can be clicked to go to different sections 
-link belows shows an example of link clicks 
+link belows shows an example of link clicks The Website is broken down to different areas
+Nav bar with 3 links 
+    Search Engine Optimization
+    Online Reputation Management
+    Social Media Marketing 
+Below is an image of people around a computer this is the hero image
+Below that is 2 columns where on the left is 3 sections where the links go to
+On the right is a side bar where keads, brand and cost information is
+Then the footer is below both where is show s the made by and copyright information
+
+
 https://drive.google.com/file/d/1tUO4NOwRLmo8_OpWjGlnZF2IKvRlkXxt/view
 
 In the hero div it uses css to display an image.
 Under the image is 3 rows and 2 columns through css.  
+
     ```md
     ![Showing the content of the index.hhtml](assets/images/screenshot.jpg)
     ```
-
+ ```md
+    ![Showing the content of the index.hhtml](assets/images/footer.jpg)
+    ```
+    
+ ```md
+    ![Showing the content of the index.hhtml](assets/images/sections.jpg)
+    ```
+    
+ ```md
+    ![Showing the content of the index.hhtml](assets/images/footer.jpg)
+    ```
+    
+    
 ## Credits
 
 Sajid Jaber
