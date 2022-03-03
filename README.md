@@ -34,22 +34,19 @@ https://drive.google.com/file/d/1tUO4NOwRLmo8_OpWjGlnZF2IKvRlkXxt/view
 In the hero div it uses css to display an image.
 Under the image is 3 rows and 2 columns through css.  
 
-    ```md
-    ![Showing the content of the index.hhtml](assets/images/screenshot.jpg)
-    ```
  ```md
-    ![Showing the content of the index.hhtml](assets/images/footer.jpg)
+    ![Showing the content of the index.hhtml](assets/images/hero.jpg)
     ```
-    
+    Image Displays the nav and hero image
  ```md
     ![Showing the content of the index.hhtml](assets/images/sections.jpg)
     ```
-    
+    Image Displays the sections
  ```md
     ![Showing the content of the index.hhtml](assets/images/footer.jpg)
     ```
-    
-    
+    Image displays the footer
+
 ## Credits
 
 Sajid Jaber
